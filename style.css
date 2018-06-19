@@ -1,0 +1,76 @@
+h1 {
+  color: black;
+  font-family: "Vollkorn SC";
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-bottom: 1px black solid;
+  /* text-decoration: underline;  */
+}
+
+/* title styling  */
+.title {
+   margin-top: 30px;
+   margin-bottom: 25px;
+   font-size: 40px;
+   text-align: center;
+   font-family: "Saira Condensed";
+}
+
+.text {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+.hinh1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hinh2 {
+  float: left;
+  margin-left: 20%;
+}
+
+.trai {
+  display: inline-block;
+  float: right;
+  text-align: center;
+  margin-top: 15%;
+  margin-right: 20%;
+  font-family: "Open Sans"
+}
+
+.texttiep {
+  margin-top: 37%;
+  text-align: center;
+  font-family: "Open Sans";
+}
+
+.tho1 {
+  font-family: "Open Sans";
+  float: left;
+  display: inline-block;
+  margin-left: 15%;
+}
+
+.tho2 {
+  font-family: "Open Sans";
+  float: right;
+  display: inline-block;
+  margin-right: 15%;
+}
+.titletho2 {
+  font-size: 19px;
+  text-align: center;
+  display: inline-block;
+}
+body {
+  background-color: #f8f9ef;
+}
