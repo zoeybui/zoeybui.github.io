@@ -1,0 +1,96 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0.5;
+}
+
+.tho1 {
+  width: 600px;
+  height: 500px;
+  position:absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.tieude {
+  font-family: "Saira Condensed";
+  color: #28415F;
+  font-size: 20px;
+}
+.noidung {
+  font-family: "Open Sans"
+}
+
+.dot1 {
+  height: 250px;
+  width: 250px;
+  background-color: #0099CC;
+  opacity: 0.5;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 800px;
+}
+
+.mui {
+  width: 25px;
+  height: 500px;
+  background-color: #0099CC;
+  opacity: 0.7;
+  position: absolute;
+  left: 1100px;
+  top: 200px;
+}
+
+.dot2 {
+  height: 250px;
+  width: 250px;
+  background-color: #0099CC;
+  opacity: 0.6;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  left: 1160px;
+}
+
+.dot3 {
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 170px;
+  left: 1160px;
+}
+
+.link {
+  position: absolute;
+  bottom: 50px;
+  left: 45%;
+}
+
+a:link {
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: #A0DB8E;
+  text-decoration: none;
+}
+
+a:visited {
+  font-size: 30px;
+  color: #FFC0CB;
+}
+
+a:hover {
+  color: #A0DB8E;
+  transition: color 0.5s ease;
+  transition: opacity 3s linear;
+  opacity: 0.5;
+}
