@@ -1,0 +1,28 @@
+body
+{
+margin: 0;
+padding: 0;
+}
+
+section
+{
+  position: relative;
+  background: url("BGHome.jpg");
+  height: 100vh;
+  background-size: cover;
+
+}
+
+p {
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  font-size: 6vh;
+  top: 46%;
+}
+
+
+p:hover {
+  color: #d6d492;
+  cursor: help;
+}
